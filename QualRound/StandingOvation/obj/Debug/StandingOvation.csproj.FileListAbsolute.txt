@@ -1,0 +1,6 @@
+C:\Users\shzheng\SkyDrive (3)\Visual Studio\GCodeJame\QualRound\StandingOvation\bin\Debug\StandingOvation.exe.config
+C:\Users\shzheng\SkyDrive (3)\Visual Studio\GCodeJame\QualRound\StandingOvation\bin\Debug\StandingOvation.exe
+C:\Users\shzheng\SkyDrive (3)\Visual Studio\GCodeJame\QualRound\StandingOvation\bin\Debug\StandingOvation.pdb
+C:\Users\shzheng\SkyDrive (3)\Visual Studio\GCodeJame\QualRound\StandingOvation\obj\Debug\StandingOvation.csprojResolveAssemblyReference.cache
+C:\Users\shzheng\SkyDrive (3)\Visual Studio\GCodeJame\QualRound\StandingOvation\obj\Debug\StandingOvation.exe
+C:\Users\shzheng\SkyDrive (3)\Visual Studio\GCodeJame\QualRound\StandingOvation\obj\Debug\StandingOvation.pdb
